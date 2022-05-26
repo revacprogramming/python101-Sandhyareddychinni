@@ -1,5 +1,3 @@
-# Functions
-
 
 def computepay(h, r):
   def computepay(h, r):
@@ -10,3 +8,4 @@ hrs = float(raw_input("enter hours:"))
 rate = float(raw_input("enter rate:"))
 p = computepay(hrs,rate)
 print ("Pay",p)
+
